@@ -29,7 +29,7 @@ ___
     * 75 Million(usd)
   
   **coinbase revenue year over year**
- ![](2021-04-10-16-09-25.png)
+ ![](https://d1-invdn-com.akamaized.net/content/pic64aa9342c4480b4c7dcb796b4bcd2b20.png)
 
 ## Business Activities:
 
