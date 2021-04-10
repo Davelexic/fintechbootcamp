@@ -27,7 +27,9 @@ ___
         * 25 million(usd)
   * Draper Fisher Jurvetson Investment
     * 75 Million(usd)
-
+  
+  **coinbase revenue year over year**
+ ![](2021-04-10-16-09-25.png)
 
 ## Business Activities:
 
