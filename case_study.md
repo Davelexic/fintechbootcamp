@@ -1,21 +1,32 @@
-[toc]
 ___
 # case study-coinbase
-__
  
+ ![coinbase logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtRyfcsXw51xIrEvN1h8EC_SbJhWZI5tCnwmvSSdbrWawynfJ7Mhe2pzUM0DxqtnI0Q0&usqp=CAU)
 
 
-Overview and Origin
+## Overview and Origin
 
-* Name of company
+* **Name of company**
+  * Coinbase Global, Inc.
 
-* When was the company incorporated?
+* **When was the company incorporated?**
+  *  June 21,2012
 
-* Who are the founders of the company?
+* **Who are the founders of the company?**
+  * Brain Armstron and Fred Ehrsham
 
-* How did the idea for the company (or project) come about?
+* **How did the idea for the company (or project) come about?**
+  * After the release of the Bitcoin whitepaper in 2008, Cyryptocurrneies and the blockchain technology showed a pathway to make transactions faster, cheaper, and without the middlemen involved making it peer to peer without the restriction that our known markets have put in place. These users needed a safe place to transact and trade because the market was riff with fraud. Coinbase sets to offer a seemless exchange and wallet that is safe for the every day user that doesnt understand the technical ends and outs of the blockchain technology.
 
-* How is the company funded? How much funding have they received?
+* **How is the company funded? How much funding have they received?**
+  * Y combinator startup incubator(June 2012)
+    * 150,000$
+  * Series A contribution from Union Square Ventures(may 2013)
+    * 5 Million(usd)
+      * Addtion contribution Union Square Ventures(december 2013)
+        * 25 million(usd)
+  * Draper Fisher Jurvetson Investment
+    * 75 Million(usd)
 
 
 ## Business Activities:
