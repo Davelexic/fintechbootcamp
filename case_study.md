@@ -44,9 +44,10 @@ ___
   * Coinbase essential mission is to make cryptocurrencies usage accessible and easy to use for everyone. In addition to the vast knowledge to set up a blockchain node you have to worries about the safety as well. Coinbase does this for you and makes the learning curve needed essential zero.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-  * 
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
+  * At the start of Coinbase, the intended customer was any trader that wants to participate in blockchain assets with out the risk involved on trading peer to peer with out an exchange or the safety concerns around hosting your own wallet. More recently, they have expanded into financial tools like credit with will pull the more average user in to the space. Coinbase has 43 Million total users with 6 Million being active users. This figure has grown exponential since the start in 2012. 
+  * ![](https://cdn.statcdn.com/Statistic/800000/803531-blank-355.png)
+* *What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*
+  * Coinbase has the first mover advantage in which they were the first truly accepted exchange that was trusted and safe for the average user. They are known to approach the ecosystem slowly so that any addition has been thoroughly fetted for the customer. In addition, as I am writing this Coinbase will be the first crypto exchange that will be listed on the NASDAQ as a public traded company. This will lead to a huge cash infusion as well as a bringing in publicity to Coinbase and cryptocurrency as a whole.
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
@@ -61,7 +62,7 @@ What solution does this company offer that their competitors do not or cannot of
         * Gemini Exchange
         * Binance
         * Kraken 
-        * 
+         
 
 ## Results
 
