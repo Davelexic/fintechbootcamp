@@ -41,8 +41,10 @@ ___
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+  * Coinbase essential mission is to make cryptocurrencies usage accessible and easy to use for everyone. In addition to the vast knowledge to set up a blockchain node you have to worries about the safety as well. Coinbase does this for you and makes the learning curve needed essential zero.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+  * 
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
