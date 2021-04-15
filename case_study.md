@@ -44,7 +44,7 @@ ___
   * Coinbase essential mission is to make cryptocurrencies usage accessible and easy to use for everyone. In addition to the vast knowledge to set up a blockchain node you have to worries about the safety as well. Coinbase does this for you and makes the learning curve needed essential zero.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-  * At the start of Coinbase, the intended customer was any trader that wants to participate in blockchain assets with out the risk involved on trading peer to peer with out an exchange or the safety concerns around hosting your own wallet. More recently, they have expanded into financial tools like credit with will pull the more average user in to the space. Coinbase has 43 Million total users with 6 Million being active users. This figure has grown exponential since the start in 2012. 
+  * At the start of Coinbase, the intended customer was any trader that wants to participate in blockchain assets with out the risk involved on trading peer to peer with out an exchange or the safety concerns around hosting your own wallet. More recently, they have expanded into financial tools like credit with will pull the more average user in to the space. Coinbase has 56 Million total users with 6 Million being active users. This figure has grown exponential since the start in 2012. 
   * ![](https://cdn.statcdn.com/Statistic/800000/803531-blank-355.png)
 * *What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*
   * Coinbase has the first mover advantage in which they were the first truly accepted exchange that was trusted and safe for the average user. They are known to approach the ecosystem slowly so that any addition has been thoroughly fetted for the customer. In addition, as I am writing this Coinbase will be the first crypto exchange that will be listed on the NASDAQ as a public traded company. This will lead to a huge cash infusion as well as a bringing in publicity to Coinbase and cryptocurrency as a whole.
@@ -82,18 +82,24 @@ ___
 ## Results
 
 * What has been the business impact of this company so far?
-
+  * Coinbase has done just what it set out to do in offering a safe and easy option to trading and acquiring digital assets. They have become the number one used exchange in America even with the ecosystem full of other healthy competitors.
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
+  * Coinbase has been growth rapidily in 2021 with the start of the bull market and more attention being given to the space. With an addition of 13 Million new registered users in Q1 of 2021, Coinbase now hasa total of 56 Million registered users. 
+    ![](https://www.visualcapitalist.com/wp-content/uploads/2021/04/coinbase-user-growth.png)
+  * In addition, actively trading customers grow 117% in this quarter from 2.8 active users to 6.1 Million. Actual revenue from the trading fees can be seen in the graph below as the beginning of 2021 brought in 1.8 Billions dollars.
+    ![](https://image.cnbcfm.com/api/v1/image/106864441-1617743037886-20210406_coinbase_quarterly_revenue_with_q1_estimate.png?v=1617743094&w=720&h=413&imgcrop=n)
+   
 * How is your company performing relative to competitors in the same domain?
+  * Coinbase is the most used exchange in America and with the recent IPO the attention will only bring more people to the exchange if compared to the second most used exchange Gemini located in New York. Gemini had a quarterly revenue of 128 Million in trading fees.Overseas the most heavily used platform would be Binance that was founded in Shanghai China but move to Taiwan over legal issues in China. Estimates on users was hard to find but in 2019, Binance estimates about 15 million people had registered on the site. In addition to users, estimates from the company say that revenue will for 2021 will be in the vicinity of 1 Billion dollars.
 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+  * Coinbase is slow to move to market with new features out of safety and making sure that everything functions properly before implementation. Coinbase just offered ETH2 staking as well as staking for other coins that will give users about a 6% APY return on their staked token. Moving forward from this their competition, Binance, has started offering synthetic assets that track the traditional market. This will allow users to trading common stocks or an unlimited amount of other derivatives. As of right now Binance offers sTSLA and sCOIN but the these markets will grow quickily. Coinbase also needed to invest in a platform to had users and seller with NFTs. Coinbase has the backend software to do this with the service of Easy Digital Downloads and this would give users another option out side of trading tokens to invest in the ecosystem by allowing the sale of Digital assets, music, and others.
 * Why do you think that offering this product or service would benefit the company?
-
+  * The offering of synthetic assets will help them stay competitive with other exchanges and offer a wide array of assets to hedge and diversy with outside of the cryptocurrency ecosystem. The addition of NFT support for buyers and sellers will add security and safety to the trading as well as giving its users another market to buy from.
 * What technologies would this additional product or service utilize?
-
+  * To give its users access to derivatives would be rather easy, they would just need to set a token to track decided a pon assets such as stocks or commodities. They could also reach out to Synthetix as company that is building the technology and platform to trade in synthetic stocks already. NFT's are a bit more compilated in the trading of these assets but they would reach out to Immutible X, a company that has but a platform for trading digital assets or Rariable and another well known company that has enabled its users to traded NFT's on their platform.
 * Why are these technologies appropriate for your solution?
+  * Sythetix has been around 
