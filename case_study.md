@@ -103,3 +103,12 @@ ___
   * To give its users access to derivatives would be rather easy, they would just need to set a token to track decided a pon assets such as stocks or commodities. They could also reach out to Synthetix as company that is building the technology and platform to trade in synthetic stocks already. NFT's are a bit more compilated in the trading of these assets but they would reach out to Immutible X, a company that has but a platform for trading digital assets or Rariable and another well known company that has enabled its users to traded NFT's on their platform.
 * Why are these technologies appropriate for your solution?
   * Sythetix has been around awhile and has been thoroughly tested. Though the technology is new to allow trading of synthetic assets the project has a wide variety of members that are actively working and improving on the framework. They have added multiple ETF trackers, commodities, and common stocks to their platform and add new assets daily. 
+## References
+  * https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm - Coinbase SEC filing
+  * https://www.cbinsights.com/research/report/coinbase-strategy-teardown/ - Coinbase strategy report
+  * https://www.binance.com/en/blog/421499824684901410/Binance-2020-Milestones-The-Tipping-Point -binance 2020 market wrap
+  * https://www.investopedia.com/tech/gemini-winklevoss-bitcoin-exchange/ - Introduction to Gemini
+  * https://www.investopedia.com/tech/coinbase-what-it-and-how-do-you-use-it/ - Investopedia Introduction to Coinbase
+  * https://synthetix.io/ - Sythentix webpage
+  * https://rarible.com/ - Raraible NFT marketplace
+  * https://www.immutable.com/ - Immutable X NFT layer 2 marketplace
