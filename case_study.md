@@ -102,4 +102,4 @@ ___
 * What technologies would this additional product or service utilize?
   * To give its users access to derivatives would be rather easy, they would just need to set a token to track decided a pon assets such as stocks or commodities. They could also reach out to Synthetix as company that is building the technology and platform to trade in synthetic stocks already. NFT's are a bit more compilated in the trading of these assets but they would reach out to Immutible X, a company that has but a platform for trading digital assets or Rariable and another well known company that has enabled its users to traded NFT's on their platform.
 * Why are these technologies appropriate for your solution?
-  * Sythetix has been around 
+  * Sythetix has been around awhile
