@@ -25,10 +25,12 @@ In the Geth library run:<br/>
 * `./geth --datadir node1 --unlock "SEALER_ONE_ADDRESS" --mine --rpc --allow-insecure-unlock`<br/>
 * `./geth --datadir node2 --unlock "SEALER_TWO_ADDRESS" --mine --port 30304 --bootnodes "enode://SEALER_ONE_ENODE_ADDRESS@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock`<br/>
 <img src='https://user-images.githubusercontent.com/26451572/130343044-377beb22-faf5-457d-8157-3a0b1aad8ce7.png' width="1000" height="500" />
+<p align="center">
+you are now up and running
+</p>
 
-### you are now up and running
-
-## Testing on MyCrypto
+## Part Two
+### Testing on MyCrypto
 
 1. Open My Crypto and then click on `change network`
 2. Click `Add Custom Node` then add your network information
