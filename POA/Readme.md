@@ -8,7 +8,7 @@ In this assignment I walked through how to set up a basic testnet including sett
    *  ./geth --datadir node1 account new
    *  ./geth --datadir node2 account new
 3. Make sure that you write down the addresses that are given for both nodes as they will be important.
-    ![image](https://user-images.githubusercontent.com/26451572/130343050-cc3d5860-2ca7-48db-b3e4-c0f6c2755c78.png)
+    <img src= 'https://user-images.githubusercontent.com/26451572/130343050-cc3d5860-2ca7-48db-b3e4-c0f6c2755c78.png' width="700" height="100" />
 4. With your nodes created its time to create your network along with your genesis block. In the Geth library, run the command:
  - `./puppeth` and follow the question prompts
  - Choose `Proof of Authority`
@@ -17,7 +17,7 @@ In this assignment I walked through how to set up a basic testnet including sett
  - Follow the rest of the prompts to your choosing
 - once you are finished navigate to the `Manage exsisting genesis` and the export your genesis configuration
   * example configuration
-![image](https://user-images.githubusercontent.com/26451572/130343060-cff3ab7d-63d6-4116-876a-c9ffb8eccbe4.png)
+<img src= 'https://user-images.githubusercontent.com/26451572/130343060-cff3ab7d-63d6-4116-876a-c9ffb8eccbe4.png' width="700" height="600" />
 5. Now we need to initalize the nodes with the genesis file
 - In the Geth library run:
     - `./geth --datadir node1 init networkname.json`
@@ -26,7 +26,8 @@ In this assignment I walked through how to set up a basic testnet including sett
    - Using seperate terminals navigate to the the geth library and then run:
    -   *  `./geth --datadir node1 --unlock "SEALER_ONE_ADDRESS" --mine --rpc --allow-insecure-unlock`
         *  `./geth --datadir node2 --unlock "SEALER_TWO_ADDRESS" --mine --port 30304 --bootnodes "enode://SEALER_ONE_ENODE_ADDRESS@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock`
-![image](https://user-images.githubusercontent.com/26451572/130343044-377beb22-faf5-457d-8157-3a0b1aad8ce7.png)
+<img src='https://user-images.githubusercontent.com/26451572/130343044-377beb22-faf5-457d-8157-3a0b1aad8ce7.png' width="1000" height="500" />
+
 ### you are now up and running
 
 ## Testing on MyCrypto
@@ -35,9 +36,12 @@ In this assignment I walked through how to set up a basic testnet including sett
 2. Click `Add Custom Node` then add your network information
 3. Use `ETH` as your currency
 4. click `Save and Use Custom Node`
-![image](https://user-images.githubusercontent.com/26451572/130343075-cbfd57df-c011-4a0f-b3d3-00eed1c68e95.png)
-5. You're now a millionaire![image](https://user-images.githubusercontent.com/26451572/130343077-0498f5f2-0522-4f16-a8e3-b754ec22e4df.png)
-1. Now with your network connected you can test a transaction
-![image](https://user-images.githubusercontent.com/26451572/130343081-77af1f0d-495c-46e5-92ea-7ec8d415178e.png)
-![image](https://user-images.githubusercontent.com/26451572/130343089-c78a0bd0-20e9-4e2f-aeb1-9d27539432de.png)
+<img src='https://user-images.githubusercontent.com/26451572/130343075-cbfd57df-c011-4a0f-b3d3-00eed1c68e95.png' width="400" height="400" />
+5. You're now a billionaire!
+<img src='https://user-images.githubusercontent.com/26451572/130343077-0498f5f2-0522-4f16-a8e3-b754ec22e4df.png' width="300" height="400" />
+7. Now with your network connected you can test a transaction
 
+<p float="left">
+  <img src='https://user-images.githubusercontent.com/26451572/130343081-77af1f0d-495c-46e5-92ea-7ec8d415178e.png' width="300" height="400" />
+   <img src="https://user-images.githubusercontent.com/26451572/130343089-c78a0bd0-20e9-4e2f-aeb1-9d27539432de.png" width="500" height="400" />
+</p>
